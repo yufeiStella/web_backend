@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="Validate functionality" errors="0" tests="9" failures="0" time="1.237" timestamp="2022-11-15T19:55:33">
+  <testcase classname="Validate functionality" name="register a user" time="0.215"></testcase>
+  <testcase classname="Validate functionality" name="login a user" time="0.059"></testcase>
+  <testcase classname="Validate functionality" name="update headline" time="0.211"></testcase>
+  <testcase classname="Validate functionality" name="get headline" time="0.11"></testcase>
+  <testcase classname="Validate functionality" name="add article" time="0.187"></testcase>
+  <testcase classname="Validate functionality" name="get articles" time="0.122"></testcase>
+  <testcase classname="Validate functionality" name="get article by id" time="0.152"></testcase>
+  <testcase classname="Validate functionality" name="get article by author" time="0.123"></testcase>
+  <testcase classname="Validate functionality" name="logout" time="0.054"></testcase>
+</testsuite>
+</testsuites>
